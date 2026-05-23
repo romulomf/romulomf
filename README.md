@@ -1,9 +1,6 @@
 # Welcome to my personal github profile 🧑🏻‍💻
 
-<p>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRwNGg1ZHo3NXV1ZDBvcnVqcnBvZXF1dThmYnVud3MzOWh6bWFzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="Programmer Avatar" style="float: right; heigth: auto; width: 256px;" />
 I'm web programmer since 2005 when I started at that time with PHP. From 2010 and after I began to work with .NET C# and Java, this one represents my main experience with software development. From that time, I worked in several types of applications, including softwares to work for government purposes, e-commerces and, most recently I'm working with web applications that supports life insurance.
-<p>
 
 ## My favorite tools and technologies
 
