@@ -2,8 +2,6 @@
 
 I'm web programmer since 2005 when I started at that time with PHP. From 2010 and after I began to work with .NET C# and Java, this one represents my main experience with software development. From that time, I worked in several types of applications, including softwares to work for government purposes, e-commerces and, most recently I'm working with web applications that supports life insurance.
 
----
-
 ## My favorite tools and technologies
 
 Here you can see what are my current favorite daily work tools and technologies.
@@ -25,8 +23,10 @@ Here you can see what are my current favorite daily work tools and technologies.
 	<img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" width="48px" height="48px" title="pnpm" />
 	<img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" width="48px" height="48px" title="Podman" />
 	<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="48px" height="48px" title="Tailwind CSS" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="48px" height="48px" title="VI Improved" />
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="48px" height="48px" title="ViteJS" />
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" width="48px" height="48px" title="Vitest" />
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="48px" height="48px" title="Visual Studio Code" />
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="48px" height="48px" title="Vuejs" />
+	<img src="https://github.com/devicons/devicon/blob/master/icons/zsh/zsh-original.svg" width="48px" height="48px" title="ZSH" />
 </div>
